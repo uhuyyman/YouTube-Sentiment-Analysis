@@ -59,12 +59,12 @@ st.title("Latih Model Sentimen menggunakan CSV")
 
 st.markdown('''
    ### Cara Menggunakan Alat Ini:
-        1. **Unggah File CSV**  
-        2. **Masukkan Nama File** untuk menyimpan model  
-        3. **Pilih Algoritma** untuk melatih model  
-        4. Klik tombol **'Train Model'**  
+        1. Unggah File CSV  
+        2. Masukkan Nama File untuk menyimpan model  
+        3. Pilih Algoritma untuk melatih model  
+        4. Klik tombol 'Train Model'  
         5. Tunggu hingga model selesai dilatih  
-        6. **Unduh Model yang Telah Dilatih**
+        6. Unduh Model yang Telah Dilatih
 ''')
 
 st.warning("Harap Tidak Mengganti tab lain di sidebar hingga analisis selesai!")

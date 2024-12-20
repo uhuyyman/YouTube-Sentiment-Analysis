@@ -106,12 +106,12 @@ if 'uploaded_file' not in st.session_state:
 st.title("Preprocessing dan Labeling Menggunakan Custom Stopwords dan Replace Words")
 st.markdown('''
     ### Petunjuk Penggunaan Tools Ini:  
-        1. **Kustomisasi Kata Pengganti** (Opsional): Tambahkan kata-kata tertentu untuk diganti melalui sidebar.  
-        2. **Kustomisasi Stopwords** (Opsional): Tambahkan stopwords Anda sendiri melalui sidebar.  
-        3. **Unggah File CSV**: Pastikan file Anda memiliki kolom `comment`, lalu unggah.  
-        4. **Proses Data**: Klik tombol **'Process Data'** untuk memulai analisis.  
-        5. **Tunggu Hingga Selesai**: Biarkan alat memproses dan menganalisis data Anda.  
-        6. **Unduh Hasil**: Simpan data yang telah diproses dengan mengunduh hasilnya.  
+        1. Kustomisasi Kata Pengganti (Opsional): Tambahkan kata-kata tertentu untuk diganti melalui sidebar.  
+        2. Kustomisasi Stopwords (Opsional): Tambahkan stopwords Anda sendiri melalui sidebar.  
+        3. Unggah File CSV: Pastikan file Anda memiliki kolom `comment`, lalu unggah.  
+        4. Proses Data: Klik tombol 'Process Data' untuk memulai analisis.  
+        5. Tunggu Hingga Selesai: Biarkan alat memproses dan menganalisis data Anda.  
+        6. Unduh Hasil: Simpan data yang telah diproses dengan mengunduh hasilnya.  
 ''')
 
 st.warning("Harap Tidak Mengganti tab lain di sidebar hingga analisis selesai!")
