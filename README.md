@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img align="center" src="./image/screenshot-3.png">
+<img align="center" src="./image/home.png">
 
 This repository contains <a href="https://youtubesam.streamlit.app">sentiment analysis website</a> project that classifies YouTube comments as positive, neutral, or negative based on <a href="https://youtu.be/4F2oOGDyWeY?si=5hR086mBiEeH2ktM">this video YouTube</a>. The dataset includes pre-processed text in the cleaned_stemmed column, and sentiment labels are generated using an automated approach based on natural language processing (NLP). The project also includes a machine learning model trained on these labeled data, saved for future use.
 
