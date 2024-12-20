@@ -21,8 +21,8 @@ def main():
             }
             </style>
             <div class="video-container">
-                <iframe src="https://youtu.be/LjOxZjSujFI?si=XnSbFr5L9gwq-tLY" frameborder="0" allowfullscreen></iframe>
-                <iframe src="https://youtu.be/4F2oOGDyWeY?si=BlHkwowYyahkRRL1" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/LjOxZjSujFI?si=eGfsNATXLnaG-4F_" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/4F2oOGDyWeY?si=OZiMuSrTU7utetxx" frameborder="0" allowfullscreen></iframe>
             </div>
             """, unsafe_allow_html=True)
     st.markdown("""
