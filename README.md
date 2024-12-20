@@ -24,7 +24,7 @@
 
 <img align="center" src="./image/screenshot-3.png">
 
-This repository contains <a href="https://sentinalyt.streamlit.app">sentiment analysis website</a> project that classifies YouTube comments as positive, neutral, or negative based on <a href="https://youtu.be/oG852gUrDG8?si=y5gq79dyg0ENr4sX">this video YouTube</a>. The dataset includes pre-processed text in the cleaned_stemmed column, and sentiment labels are generated using an automated approach based on natural language processing (NLP). The project also includes a machine learning model trained on these labeled data, saved for future use.
+This repository contains <a href="https://youtubesam.streamlit.app">sentiment analysis website</a> project that classifies YouTube comments as positive, neutral, or negative based on <a href="https://youtu.be/4F2oOGDyWeY?si=5hR086mBiEeH2ktM">this video YouTube</a>. The dataset includes pre-processed text in the cleaned_stemmed column, and sentiment labels are generated using an automated approach based on natural language processing (NLP). The project also includes a machine learning model trained on these labeled data, saved for future use.
 
 <b>Key Objectives:</b>
 * <b>Automated Sentiment Labeling:</b> Automatically classify text data into sentiment categories (positive, neutral, negative) using a pre-trained NLP model.
@@ -51,7 +51,7 @@ This repository contains <a href="https://sentinalyt.streamlit.app">sentiment an
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/traviszusa/Sentiment-Analysis-Based-On-Youtube-Comments.git
+   git clone https://github.com/uhuyyman/YouTube-Sentiment-Analysis
    ```
 2. Make an environment
    ```bash
@@ -82,7 +82,7 @@ This repository contains <a href="https://sentinalyt.streamlit.app">sentiment an
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open the website with a virtual environment or click this link on <a href="https://sentinalyt.streamlit.app">SentinalYT</a> and explore the features.
+Open the website with a virtual environment or click this link on <a href="https://youtubesam.streamlit.app">SentinalYT</a> and explore the features.
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
